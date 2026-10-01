@@ -8,7 +8,7 @@ Generate textured 3D assets from text, a single image, or multi-view images thro
 
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — curated open generative-AI tools and resources.
 - [Muapi ComfyUI](https://github.com/SamurAIGPT/muapi-comfyui) — visual workflow integration for Muapi models.
-- [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — reusable generative-media workflows.
+- [Generative Media Skills](https://github.com/SamurAIGPT/muapi-skills) — reusable generative-media workflows.
 - [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — application and workflow discovery.
 
 ## What this repository covers
